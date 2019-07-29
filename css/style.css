@@ -1,0 +1,17 @@
+/* CSS Resets */
+/*refered ny tag*/
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box
+}
+
+.header{
+
+}
+#heading{
+	color:red;
+}
+h1{
+	color:yellow;
+}
